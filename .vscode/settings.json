@@ -1,5 +1,8 @@
 {
   "deno.enable": true,
+  "[markdown]": {
+    "editor.defaultFormatter": "denoland.vscode-deno"
+  },
   "[javascript]": {
     "editor.defaultFormatter": "denoland.vscode-deno"
   },
