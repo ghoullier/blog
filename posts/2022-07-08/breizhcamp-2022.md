@@ -22,9 +22,3 @@ tiens à coeur: **TypeScript**
 > TypeScript au sein de mon équipe chez [Swile](https://swile.co/).
 
 [![TypeScript Migration Journey](./typescript-migration-journey.jpeg)](https://docs.google.com/presentation/d/e/2PACX-1vSXjeFjunXHX0i2EA1_mfjSF-bdNoPAP3DzsqYcWvB4jtfzUo3bAvvq0j8X4d05UNIhnCJTc9AOewyr/pub)
-
-**TypeScript** est mon langage principal depuis pres de 7 ans (merci Angular 2
-😍).
-
-Lors de mon arrivée chez Swile, j'ai été confronté au challenge de me retrouver
-face à une base de code JavaScript.
