@@ -1,4 +1,4 @@
-import blog from "https://deno.land/x/blog@0.3.3/blog.tsx";
+import blog from "https://deno.land/x/blog@0.5.0/blog.tsx";
 
 blog({
   title: "Grégory Houllier",
@@ -10,6 +10,5 @@ blog({
     { title: "GitHub", url: "https://github.com/ghoullier" },
     { title: "Twitter", url: "https://twitter.com/ghoullier" },
   ],
-  background: "#f9f9f9",
   middlewares: [],
 });
