@@ -1,8 +1,0 @@
-image:
-  file: .gitpod.Dockerfile
-tasks:
-  - init: 'dev'
-    command: 'deno task dev'
-vscode:
-  extensions:
-    - denoland.vscode-deno
