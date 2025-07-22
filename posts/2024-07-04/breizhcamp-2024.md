@@ -13,7 +13,7 @@ cette archi ainsi que les élements d'implémentation chez
 
 ### 📺 Replay
 
-**Pas encore disponible**
+[![Micro-Frontend Architecture](https://img.youtube.com/vi/rbSM5VWjXDc/0.jpg)](https://www.youtube.com/watch?v=rbSM5VWjXDc)
 
 ### 👨‍🏫 Slides
 
